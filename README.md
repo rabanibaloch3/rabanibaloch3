@@ -13,6 +13,7 @@ BS Computer Science graduate from the University of Balochistan (CGPA 3.57), wor
 - Independent web & SEO projects since 2021
 
 ## Featured projects
+- [ConceptMCQ](https://github.com/rabanibaloch3/ConceptMCQ) — concept-first exam prep app (React, TypeScript, Node.js, PostgreSQL) with AI-generated MCQs
 - [rabani-portfolio](https://github.com/rabanibaloch3/rabani-portfolio) — my portfolio website
 
 ## Connect
