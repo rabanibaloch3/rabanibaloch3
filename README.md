@@ -1,6 +1,6 @@
 # Hi, I'm Ghulam Rabbani 👋
 
-BS Computer Science graduate from the University of Balochistan (CGPA 3.57), working across **web development, SEO, and business intelligence**.
+BS Computer Science graduate from the University of Balochistan, working across **web development, SEO, and business intelligence**.
 
 ## What I do
 - 🌐 Web development — HTML, CSS, JavaScript, Bootstrap, WordPress; responsive, multi-page sites and dynamic apps using APIs
